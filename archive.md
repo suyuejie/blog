@@ -4,8 +4,8 @@ layout: page
 permalink: /posts/
 title: "存档"
 crawlertitle: "苏跃杰的博客 - 旧时光"
-summary: "存档"
-active: 旧时光
+summary: "旧时光"
+active: 存档
 ---
 
 {% for tag in site.tags %}
