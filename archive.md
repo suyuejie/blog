@@ -2,10 +2,10 @@
 bg: "w1.jpg"
 layout: page
 permalink: /posts/
-title: "存档"
+title: "旧时光"
 crawlertitle: "苏跃杰的博客 - 旧时光"
-summary: "旧时光"
-active: 存档
+summary: 
+active: 旧时光
 ---
 
 {% for tag in site.tags %}
