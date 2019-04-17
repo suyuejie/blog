@@ -5,7 +5,7 @@ permalink: /posts/
 title: "存档"
 crawlertitle: "所有的文章"
 summary: "旧时光"
-active: archive
+active: 存档
 ---
 
 {% for tag in site.tags %}
