@@ -2,7 +2,7 @@
 bg: "w1.jpg"
 layout: page
 permalink: /posts/
-title: "苏跃杰的博客 - 存档"
+title: "存档"
 crawlertitle: "所有的文章"
 summary: "旧时光"
 active: 存档
